@@ -32,7 +32,7 @@ Este es un proyecto que representa una pagina de inicio ficticia para Starbucks.
 `
     <header>
         <div class="left-side">
-            <a href="/Index.html"><img src="/img/logo.png" alt=""></a>
+            <a href="index.html"><img src="/img/logo.png" alt=""></a>
         </div>
         <div class="right-side">
             <div class="nav-link-wrapper"> <a href="Index.html">Home</a> </div>
@@ -66,7 +66,7 @@ Este es un proyecto que representa una pagina de inicio ficticia para Starbucks.
         </div>`
 ​    </div>
 ​    <div class="thumb">
-​        <a href="Index.html"><img id="bottom" src="/img/thumb1.png" onclick="imgSlider('/img/img1.png');"> </a>
+​        <a href="index.html"><img id="bottom" src="/img/thumb1.png" onclick="imgSlider('/img/img1.png');"> </a>
 ​        <a href="/pages/pink.html"><img src="/img/thumb2.png" onclick="imgSlider('/img/img2.png');"> </a>
 ​        <a href="/pages/rosa.html"><img src="/img/thumb3.png" onclick="imgSlider('/img/img3.png');"> </a>
 ​    </div>
